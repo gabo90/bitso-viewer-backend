@@ -1,5 +1,9 @@
 # BitsoViewerBackend
 
+## Requirements
+
+`mongodb`
+
 ## Install Dependencies
 
 Run `npm install` for install project dependencies.
